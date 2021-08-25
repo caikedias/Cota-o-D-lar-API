@@ -1,3 +1,3 @@
-# Cota-o-D-lar-API
+# Cotação-Dólar
 Mineração de Cotação Dólar API
 
